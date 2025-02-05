@@ -4,3 +4,14 @@ img {
     margin-right: auto;
     width: 50%;
 }
+
+h1 {
+    display: block;
+    margin-left: 35%;
+    margin-right: auto;
+    width: 50%;
+}
+
+body {
+    background-image: url(/image/heart.avif);
+}
