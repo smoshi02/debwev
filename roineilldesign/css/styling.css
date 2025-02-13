@@ -1,10 +1,21 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Darumadrop+One&display=swap');
 
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
 body {
     background-color: #FFCCE1;
-    
+    background-size: cover;
 }
+
+header {
+    color: white;
+    background-size: contain;
+    padding: 20px;
+  }
 
 main {
     margin-left: 100px;
@@ -16,16 +27,19 @@ main {
 a {
     font-family: "Roboto", sans-serif;
     color: #6e3746;
-    margin-inline: 2px;
+    margin-inline: 15px;
     border-style: double;
     background-color: #FFFFFF;
     border-radius: 9px;
     padding: 2px;
+   
 }
 
 nav {
-    padding-top: 10px;
+    text-align: center;
     padding-bottom: 10px;
+    margin-right: 70px;
+
 }
 
 div form label, div form input{
@@ -52,10 +66,6 @@ a:hover {
     background-color: #db94a7;
 }
 
-span{
-    color: #E195AB;
-    font-weight: 700;
-}
 
 img {
     display: block;
@@ -68,6 +78,12 @@ img {
 h1 {
     text-align: center;
     font-family: "Darumadrop One", sans-serif;
+}
+
+div h2 {
+    float: left;
+    font-size: 25px;
+    color: #6e3746;
 }
 
 h3 {
