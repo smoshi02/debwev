@@ -7,7 +7,7 @@
 }
 
 body {
-    background-color: #FFCCE1;
+    background-color: #ECDCBF;
     background-size: cover;
 }
 
@@ -29,6 +29,7 @@ a {
     color: #6e3746;
     margin-inline: 15px;
     border-style: double;
+    border-color: #A31D1D;
     background-color: #FFFFFF;
     border-radius: 9px;
     padding: 2px;
@@ -63,7 +64,7 @@ button {
 }
 
 a:hover {
-    background-color: #db94a7;
+    background-color: #ebe3e3;
 }
 
 
@@ -71,8 +72,6 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-
-    
 }
 
 h1 {
@@ -83,7 +82,7 @@ h1 {
 div h2 {
     float: left;
     font-size: 25px;
-    color: #6e3746;
+    color: #642424;
 }
 
 h3 {
@@ -97,4 +96,6 @@ table {
 
 article {
     text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
 }
