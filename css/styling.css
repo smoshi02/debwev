@@ -42,6 +42,7 @@ img {
 }
 
 .profile h1 {
+    margin-top: 10px;
     margin-bottom: 20px;
 }
 
@@ -91,7 +92,7 @@ img {
     margin: 10px;
 }
 
-.contact h4 span {
+.contact > h4 > span {
     color: red;
     font-weight: bold;
 }
