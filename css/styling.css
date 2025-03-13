@@ -14,17 +14,17 @@ header {
     color: white;
     text-align: center;
     padding: 13px;
-    margin-bottom: 50px;
+    margin-bottom: 75px;
 }
 
 div {
     position: relative;
-    bottom: 55px;
+    bottom: 80px;
 }
 
 img {
     border-radius: 50%;
-    width: 130px;
+    width: 150px;
     border: 5px solid #fefefe
 }
 
@@ -34,7 +34,6 @@ img {
     text-align: center;
     border-radius: 10px;
     box-shadow: 0px 3px 3px 0px #7e7b7bfb;
-    margin-top: 100px;
     display: block;
     margin: auto;
     max-width: 750px;
@@ -85,11 +84,11 @@ img {
 
 .contact h3 {
     margin-top: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
 
 .contact h4 {
-    margin-top: 30px;
+    margin-top: 40px;
 }
 
 .contact > h4 > span {
