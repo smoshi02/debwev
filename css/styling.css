@@ -36,7 +36,7 @@ img {
     margin-top: 100px;
     display: block;
     margin: auto;
-    max-height: 1060px;
+    max-height: fit-content;
     max-width: 750px;
     width: 100%;
 }
@@ -89,7 +89,7 @@ img {
 }
 
 .contact h4 {
-    margin: 10px;
+    margin-top: 30px;
 }
 
 .contact > h4 > span {
